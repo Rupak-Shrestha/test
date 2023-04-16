@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 testing stash
+=======
+experimenting the stashing option.
+>>>>>>> Stashed changes
