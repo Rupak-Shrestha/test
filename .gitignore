@@ -1,0 +1,3 @@
+#ignoring all the ruby files as I'm working in python.
+
+*.rb
