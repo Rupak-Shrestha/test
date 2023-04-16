@@ -1,3 +1,11 @@
 #ignoring all the ruby files as I'm working in python.
 
 *.rb
+
+
+
+#this is rupak from amazon linux
+#and I want to ignore c and c++ files as well
+
+*.c
+*.cpp
